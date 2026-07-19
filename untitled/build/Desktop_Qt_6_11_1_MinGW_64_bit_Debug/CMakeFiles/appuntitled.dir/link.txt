@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appuntitled.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appuntitled.dir/objects.a @CMakeFiles\appuntitled.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appuntitled.dir/objects.a -Wl,--no-whole-archive -o appuntitled.exe -Wl,--out-implib,libappuntitled.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appuntitled.dir\linkLibs.rsp

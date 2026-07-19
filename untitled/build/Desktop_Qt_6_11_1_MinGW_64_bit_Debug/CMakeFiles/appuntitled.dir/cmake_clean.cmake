@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appuntitled_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_untitled.cpp"
+  ".rcc/qmlcache/appuntitled_QQml_qml.cpp"
+  ".rcc/qmlcache/appuntitled_QQml_qml.cpp.aotstats"
+  ".rcc/qmlcache/appuntitled_qmlcache_loader.cpp"
+  "CMakeFiles/appuntitled_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appuntitled_autogen.dir/ParseCache.txt"
+  "appuntitled_autogen"
+  "CMakeFiles/appuntitled.dir/appuntitled_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appuntitled.dir/appuntitled_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/appuntitled_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appuntitled.dir/appuntitled_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appuntitled_raw_qml_0.cpp.obj"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appuntitled_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_untitled.cpp.obj"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_untitled.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appuntitled_QQml_qml.cpp.obj"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appuntitled_QQml_qml.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appuntitled_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appuntitled.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appuntitled_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appuntitled.dir/st.cpp.obj"
+  "CMakeFiles/appuntitled.dir/st.cpp.obj.d"
+  "appuntitled.exe"
+  "appuntitled.exe.manifest"
+  "appuntitled.pdb"
+  "appuntitled_autogen/mocs_compilation.cpp"
+  "appuntitled_autogen/timestamp"
+  "appuntitled_qmltyperegistrations.cpp"
+  "libappuntitled.dll.a"
+  "meta_types/appuntitled_json_file_list.txt"
+  "meta_types/appuntitled_json_file_list.txt.timestamp"
+  "meta_types/qt6appuntitled_metatypes.json"
+  "meta_types/qt6appuntitled_metatypes.json.gen"
+  "untitled/appuntitled.qmltypes"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appuntitled.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
