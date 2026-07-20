@@ -20,7 +20,7 @@ MainWindow::MainWindow(QWidget *parent)
     int maxThreads = std::thread::hardware_concurrency();
     ui->threadSlider->setRange(1, maxThreads);
     ui->threadSlider->setValue(maxThreads);
-    ui->threadCountLable->setText(QString("Потоки: %1").arg(maxThreads)); // Оновлюємо лейбл поруч
+    ui->threadCountLable->setText(QString("Потоки: %1").arg(maxThreads)); 
 
 
     ui->resultTextEdit->setReadOnly(true);
